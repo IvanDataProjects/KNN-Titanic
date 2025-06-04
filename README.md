@@ -58,5 +58,5 @@ Se utiliza el algoritmo **K-Nearest Neighbors (KNN)** para predecir la supervive
 
 ## 🚀 Autor
 Iván García Raso  
-[GitHub - IvanMLProjects](https://github.com/IvanMLProjects)  
+[GitHub - IvanDataProjects](https://github.com/IvanDataProjects)  
 [LinkedIn](https://www.linkedin.com/in/ivan-garcia-raso)
